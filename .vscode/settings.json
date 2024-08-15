@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/yiqiaoqiao/Desktop/Java/Appointment/lib/javax.mail.jar",
+        "/Users/yiqiaoqiao/Desktop/Java/Appointment/lib/activision.jar",
+        "/Users/yiqiaoqiao/Desktop/Java/Appointment/javax.mail-api-1.6.2.jar"
+    ]
+}
